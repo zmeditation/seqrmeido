@@ -1,0 +1,8 @@
+.card-with-shadow {
+  margin: auto;
+  border: 10px solid #a59c93;
+}
+
+.inputForm label {
+  text-align: left;
+}

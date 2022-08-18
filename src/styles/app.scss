@@ -1,0 +1,86 @@
+@font-face {
+  font-family: "Lexend";
+  font-weight: 300;
+  src: url("/fonts/Lexend/Lexend-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lexend";
+  font-weight: 400;
+  src: url("/fonts/Lexend/Lexend-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lexend";
+  font-weight: 500;
+  src: url("/fonts/Lexend/Lexend-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Lexend";
+  font-weight: 600;
+  src: url("/fonts/Lexend/Lexend-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 300;
+  src: url("/fonts/SpaceGrotesk/SpaceGrotesk-Light.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 400;
+  src: url("/fonts/SpaceGrotesk/SpaceGrotesk-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 500;
+  src: url("/fonts/SpaceGrotesk/SpaceGrotesk-Medium.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Space Grotesk";
+  font-weight: 600;
+  src: url("/fonts/SpaceGrotesk/SpaceGrotesk-Bold.ttf") format("truetype");
+}
+html {
+  overflow-x: hidden;
+}
+body {
+  margin: 0;
+}
+a {
+  cursor: pointer;
+}
+a:hover {
+  text-decoration: none !important;
+}
+.app-nav-menu {
+  color: #000000 !important;
+  font-family: Lexend !important;
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+  &.active {
+    color: #f6a721 !important;
+  }
+}
+.app-header {
+  position: relative;
+  z-index: 1;
+}
+.connect-wallet-button {
+  padding: 6px 15px !important;
+  border-color: #fff1db !important;
+  background-color: #fff1db !important;
+  color: #aa7d38 !important;
+  font-family: Lexend !important;
+  font-weight: 500 !important;
+}
+.secondary-button {
+  padding: 10px 20px !important;
+  border: none !important;
+  border-radius: 30px !important;
+  background-color: #ffffff !important;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 4px;
+  font-size: 14px !important;
+  font-family: Lexend !important;
+  font-weight: 400 !important;
+}
+.card-with-shadow {
+  box-shadow: 0px 10px 6px -5px rgba(0,0,0,0.25);
+}

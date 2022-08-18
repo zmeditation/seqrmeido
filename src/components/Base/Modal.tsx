@@ -32,9 +32,9 @@ export default function DetailModal(props: ModalProps) {
       >
         <Box className="row team-popup">
           <div className="mfp-close-btn-in">
-            <a title="Close" className="mfp-close" onClick={handleClose}>
+            <button title="Close" className="mfp-close" onClick={handleClose}>
               ×
-            </a>
+            </button>
           </div>
           <div className="col-md-6">
             <div className="team-photo">

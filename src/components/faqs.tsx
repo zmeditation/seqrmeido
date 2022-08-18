@@ -92,7 +92,7 @@ const StyledAccordionSummary = styled(AccordionSummary)(({ theme }) => ({
     color: "#46bdf4",
   },
   "& .MuiAccordionSummary-content": {
-    margin: "10px 0px 8px 20px",
+    margin: "10px 0px 8px 20px !important",
   },
   "& .MuiAccordionSummary-expandIconWrapper": {
     color: "#46bdf4",

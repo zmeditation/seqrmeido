@@ -19,6 +19,10 @@ const StyledTabs = styled(Tabs)(({ theme }) => ({
   "& .MuiTabs-flexContainer": {
     display: "grid",
     gridTemplateColumns: "1fr 1fr 1fr 1fr 1fr",
+    [theme.breakpoints.down(500)]: {
+      display: "flex",
+      flexFlow: "wrap",
+    },
   },
   "& .MuiTabs-indicator": {
     display: "none",

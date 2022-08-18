@@ -6,11 +6,17 @@ const StyledModal = styled(Modal)(({ theme }) => ({
   fontFamily: "Poppins, sans-serif",
   display: "flex",
   padding: "40px",
+  background: "transparent",
   "& .MuiBox-root": {
     margin: "auto auto",
   },
   "& .team-popup:focus-visible": {
     outline: "none",
+  },
+  "& .MuiBackdrop-root": {
+    backgroundImage:
+      "linear-gradient(to right, #46bdf4 0%, #7a0fff 100%) !important",
+    opacity: "0.5 !important",
   },
 }));
 
@@ -32,7 +38,12 @@ export default function DetailModal(props: ModalProps) {
       >
         <Box className="row team-popup">
           <div className="mfp-close-btn-in">
-            <button title="Close" className="mfp-close" onClick={handleClose}>
+            <button
+              title="Close"
+              className="mfp-close"
+              style={{ border: "none" }}
+              onClick={handleClose}
+            >
               ×
             </button>
           </div>

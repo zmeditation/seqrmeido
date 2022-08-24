@@ -6,7 +6,7 @@ import { readNetwork } from "constants/networks";
 // const appName = "ZETTA";
 
 const networkId = readNetwork.chainId;
-const rpcUrl = readNetwork.rpcUrl;
+// const rpcUrl = readNetwork.rpcUrl;
 // TODO(odd-amphora): Add support for Formatic, Portis, etc. if requested.
 export function initOnboard(subscriptions: Subscriptions) {
   const param = {

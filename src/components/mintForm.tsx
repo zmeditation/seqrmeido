@@ -7,9 +7,41 @@ import {
   TextInput,
   Text,
   Select,
+  Grommet,
 } from "grommet";
 import "./mintForm.css";
 import { useState } from "react";
+
+const selectTheme = {
+  select: {
+    background: "dark-1",
+    icons: {
+      color: "rgb(238,238,238)",
+      margin: "0px 0px",
+    },
+    control: {
+      open: {
+        color: "rgb(238,238,0)",
+      },
+    },
+    options: {
+      container: {
+        pad: "xxsmall",
+        background: "dark-1",
+      },
+      text: {
+        margin: "none",
+        size: "small",
+        color: "light-1",
+      },
+    },
+    container: {
+      extend: () => `
+        flex-grow: 1;
+      `,
+    },
+  },
+};
 
 function MintForm() {
   const [inputToken, setInputToken] = useState("BUSD");
@@ -47,12 +79,14 @@ function MintForm() {
                 </FormField>
                 <div className="token-box">
                   <Text size="small">{inputToken} / SEQRME</Text>
-                  <Select
-                    className="select-token"
-                    options={["BUSD", "USDT"]}
-                    value={inputToken}
-                    onChange={({ option }) => handleTokenChange(option)}
-                  />
+                  <Grommet theme={selectTheme}>
+                    <Select
+                      className="select-token"
+                      options={["BUSD", "USDT"]}
+                      value={inputToken}
+                      onChange={({ option }) => handleTokenChange(option)}
+                    />
+                  </Grommet>
                 </div>
               </Box>
               <Box

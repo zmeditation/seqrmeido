@@ -86,7 +86,7 @@ function Footer() {
                   <div className="copyright-text copyright-text-s3 pdt-m">
                     <p>
                       <span className="d-sm-block">
-                        Copyright &copy; 2018, ICO Crypto. Template Made By{" "}
+                        Copyright &copy; 2022, IDO Crypto. Template Made By{" "}
                         <a href="./">Softnio</a> &amp; Handcrafted by iO.{" "}
                       </span>
                       All trademarks and copyrights belong to their respective

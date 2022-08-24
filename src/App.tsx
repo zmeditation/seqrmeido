@@ -1,10 +1,10 @@
 import "./App.css";
 import Header from "./components/header";
-import Platform from "./components/platform";
 import ICO from "./components/ico";
 import MobileApp from "./components/mobileApp";
 import TokenSale from "./components/tokenSale";
-import Roadmap from "./components/roadmap";
+import RoadmapFirst from "./components/roadmapfirst";
+import RoadmapSecond from "./components/roadmapsecond";
 import Team from "./components/team";
 import Partners from "./components/partners";
 import MediaPartner from "./components/mediaPartner";
@@ -20,11 +20,11 @@ function App() {
       <Header />
       <main className="nk-pages">
         <MintForm />
-        <Platform />
         <ICO />
         <MobileApp />
         <TokenSale />
-        <Roadmap />
+        <RoadmapFirst />
+        <RoadmapSecond />
         <Team />
         <Partners />
         <MediaPartner />

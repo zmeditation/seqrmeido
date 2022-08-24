@@ -7,13 +7,8 @@ function TokenSale() {
       <div className="container">
         <div className="section-head text-center wide-auto-sm tc-light">
           <h2 className="title title-s4" title="TOKEN">
-            Token Sale
+          TOKENOMICS
           </h2>
-          <p>
-            The Cryptocurrency industry is one of the Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
-          </p>
         </div>
         <div className="nk-block nk-block-token mgb-m30">
           <div className="row align-items-center justify-content-between gutter-vr-50px">
@@ -21,46 +16,22 @@ function TokenSale() {
               <div className="row gutter-vr-30px">
                 <div className="col-sm-6">
                   <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">Start</h6>
-                    <p>Feb 8, 2018 (9:00AM GMT)</p>
+                    <h6 className="title title-s6 title-xs-s2">Minting is stable at 10 k per day up to a lifetime total of 5 million token.</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">
-                      Number of tokens for sale
-                    </h6>
-                    <p>900,000 ICC (9%)</p>
+                    <h6 className="title title-s6 title-xs-s2">First emission 1,000,000 token split as follows, 500k to initial funder, and 500k to founders. To compensate the funding.</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">End</h6>
-                    <p>Feb 20, 2018 (11:00AM GMT)</p>
+                    <h6 className="title title-s6 title-xs-s2">10,000 tokens to be minted daily untill completion of full 5,000,000 token.</h6>
                   </div>
                 </div>
                 <div className="col-sm-6">
                   <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">
-                      Tokens exchange rate
-                    </h6>
-                    <p>1 ETH = 650 ICC, 1 BTC = 1940 ICC</p>
-                  </div>
-                </div>
-                <div className="col-sm-6">
-                  <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">
-                      Acceptable currencies
-                    </h6>
-                    <p>ETH, BTC, LTC</p>
-                  </div>
-                </div>
-                <div className="col-sm-6">
-                  <div className="stage-info">
-                    <h6 className="title title-s6 title-xs-s2">
-                      Minimal transaction amount
-                    </h6>
-                    <p>1 ETH/ 1 BTC/ 1 LTC</p>
+                    <h6 className="title title-s6 title-xs-s2">Airdrops: each user will receive a % of token added to his wallet automatically. From real life sales recorded by the apk.</h6>
                   </div>
                 </div>
               </div>

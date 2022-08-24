@@ -13,11 +13,6 @@ function Team() {
           <h2 className="title title-s4" title="team">
             Powered by a team
           </h2>
-          <p>
-            The Cryptocurrency industry is one of the Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
-          </p>
         </div>
         <div className="nk-block nk-block-team-list team-list">
           <div className="row justify-content-center">

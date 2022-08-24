@@ -201,7 +201,7 @@ function Faqs() {
             Frequently Asked Question
           </h2>
           <p>
-            Below we’ve provided a bit of ICO, ICO Token, cryptocurrencies, and
+            Below we’ve provided a bit of IDO, IDO Token, cryptocurrencies, and
             few others. If you have any other questions, please get in touch
             using the contact form below.
           </p>
@@ -222,7 +222,7 @@ function Faqs() {
                       disableRipple
                     />
                     <StyledTab
-                      label="Pre-ICO & ICO"
+                      label="Pre-IDO & IDO"
                       {...a11yProps(1)}
                       disableRipple
                     />
@@ -241,13 +241,11 @@ function Faqs() {
                       aria-controls="panel1bh-content"
                       id="panel1bh-header"
                     >
-                      What is ICO Crypto?
+                      What is IDO Crypto?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -262,10 +260,8 @@ function Faqs() {
                       What cryptocurrencies can I use to purchase?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -277,13 +273,11 @@ function Faqs() {
                       aria-controls="panel3bh-content"
                       id="panel3bh-header"
                     >
-                      How can I participate in the ICO Token sale?
+                      How can I participate in the IDO Token sale?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -295,13 +289,11 @@ function Faqs() {
                       aria-controls="panel4bh-content"
                       id="panel4bh-header"
                     >
-                      How do I benefit from the ICO Token?
+                      How do I benefit from the IDO Token?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                 </StyledTabPanel>
@@ -318,10 +310,8 @@ function Faqs() {
                       Which of us ever undertakes laborious?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -336,10 +326,8 @@ function Faqs() {
                       Who do not know how to pursue rationally?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -354,10 +342,8 @@ function Faqs() {
                       Their separate existence is a myth?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -372,10 +358,8 @@ function Faqs() {
                       Pityful a rethoric question ran over her cheek?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                 </StyledTabPanel>
@@ -392,10 +376,8 @@ function Faqs() {
                       When she reached the first hills?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -410,10 +392,8 @@ function Faqs() {
                       Big Oxmox advised her not to do?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -428,10 +408,8 @@ function Faqs() {
                       Which roasted parts of sentences fly into your mouth?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -446,10 +424,8 @@ function Faqs() {
                       Vokalia and Consonantia, there live?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                 </StyledTabPanel>
@@ -466,10 +442,8 @@ function Faqs() {
                       When she reached the first hills?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -484,10 +458,8 @@ function Faqs() {
                       Big Oxmox advised her not to do?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -502,10 +474,8 @@ function Faqs() {
                       Which roasted parts of sentences fly into your mouth?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -520,10 +490,8 @@ function Faqs() {
                       Vokalia and Consonantia, there live?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                 </StyledTabPanel>
@@ -540,10 +508,8 @@ function Faqs() {
                       When she reached the first hills?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -558,10 +524,8 @@ function Faqs() {
                       Big Oxmox advised her not to do?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -576,10 +540,8 @@ function Faqs() {
                       Which roasted parts of sentences fly into your mouth?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                   <StyledAccordion
@@ -594,10 +556,8 @@ function Faqs() {
                       Vokalia and Consonantia, there live?
                     </StyledAccordionSummary>
                     <StyledAccordionDetails>
-                      Once ICO period is launched, You can purchased Token with
-                      Etherum, Bitcoin or Litecoin. You can also tempor
-                      incididunt ut labore et dolore magna aliqua sed do eiusmod
-                      eaque ipsa.
+                      Once IDO period is launched, You can purchased Token with
+                      USD or BUSD.
                     </StyledAccordionDetails>
                   </StyledAccordion>
                 </StyledTabPanel>

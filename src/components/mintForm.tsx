@@ -6,10 +6,18 @@ import {
   ResponsiveContext,
   TextInput,
   Text,
+  Select,
 } from "grommet";
 import "./mintForm.css";
+import { useState } from "react";
 
 function MintForm() {
+  const [inputToken, setInputToken] = useState("BUSD");
+
+  const handleTokenChange = (option: any) => {
+    setInputToken(option);
+  };
+
   return (
     <section
       className="section mask-c-blend-dark bg-theme-dark-alt tc-light ov-h"
@@ -37,7 +45,15 @@ function MintForm() {
                 <FormField className="inputForm" label="Input Amount">
                   <TextInput placeholder="" />
                 </FormField>
-                <Text size="small">BUSD / SEQRME</Text>
+                <div className="token-box">
+                  <Text size="small">{inputToken} / SEQRME</Text>
+                  <Select
+                    className="select-token"
+                    options={["BUSD", "USDT"]}
+                    value={inputToken}
+                    onChange={({ option }) => handleTokenChange(option)}
+                  />
+                </div>
               </Box>
               <Box
                 round="8px"
@@ -64,7 +80,7 @@ function MintForm() {
                 level={2}
                 margin={{ top: "0", bottom: "30px" }}
               >
-                BUSD 0
+                {inputToken} 0
               </Heading>
               <Button
                 fill="horizontal"

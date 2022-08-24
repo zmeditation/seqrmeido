@@ -26,8 +26,7 @@ export function initOnboard(subscriptions: Subscriptions) {
           },
         },
         { walletName: "coinbase" },
-        { walletName: "status" },
-        { walletName: "walletLink", rpcUrl },
+        // { walletName: "walletLink", rpcUrl },
       ],
     },
     walletCheck: [

@@ -14,12 +14,10 @@ function MobileApp() {
             <span className="line-8"></span>
           </div>
           <h2 className="title title-s4" title="APPS">
-            The XENTRO App
+            The SeqrMe App
           </h2>
           <p>
-            The Cryptocurrency industry is one of the Lorem ipsum dolor sit
-            amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
-            ut labore et dolore magna aliqua.
+            SeqrMe app is the first product/stage to launch from within the SeqrMe envierment.
           </p>
         </div>
         <div className="nk-block nk-block-text-wrap">
@@ -32,17 +30,15 @@ function MobileApp() {
             <div className="col-sm-10 col-md-6 col-lg-5">
               <div className="nk-block-text ml-lg-3 ml-xl-0">
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipis cing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Ut enim ad minim veniam, quis nostrud exerc itation ullamco
-                  laboris nisi commodo consequat.
+                The app targets security and privacy as maine opejectives.
+                It includes environment functions as stealth, where users can make the app disappear untraceable from preying eyes or hackers / bad players.
+                Using latest encryption and algorythm, we strive to build a multifunction apps envierment within the secured envierment of SeqrMe. As the below road map.
                 </p>
                 <ul className="list list-dot pdb-r">
-                  <li>Crypto-news curation</li>
-                  <li>Natural Language Understanding</li>
-                  <li>Wallet aggregation</li>
-                  <li>Professional Network</li>
-                  <li>No more expensive fees</li>
+                  <li>Stealth Mode and Super Stealth Mode to protect data from physical and/or remote access to the device</li>
+                  <li>Audio calls SIP / PSTN, Video calls / conference, Voice-messages, Video-messages</li>
+                  <li>E-mail, universal chat</li>
+                  <li>VPN support (enabled / disabled based on country regulation)</li>
                 </ul>
                 <ul className="btn-grp justify-content-center justify-content-md-start">
                   <li>

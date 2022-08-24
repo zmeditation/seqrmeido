@@ -4,7 +4,7 @@ function Partners() {
       <div className="container">
         <div className="section-head text-center wide-auto-sm tc-light">
           <h2 className="title title-s4" title="Partners">
-            ICO Crypto Partners
+            IDO Crypto Partners
           </h2>
         </div>
         <div className="nk-block block-partners">

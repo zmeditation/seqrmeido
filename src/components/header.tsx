@@ -148,8 +148,8 @@ function Header() {
                       </div>
                       <div className="cpn-text cpn-text-s1">
                         <p className="lead">
-                          We made this for ourselves. We are sharing it with
-                          you!
+                          We made this for ourselves. But now we are sharing it with
+                          the world!
                         </p>
                       </div>
                       <div className="cpn-btns">
@@ -164,10 +164,10 @@ function Header() {
                           </li>
                           <li>
                             <a
-                              href="#mint"
+                              href="#token"
                               className="btn btn-md btn-grad btn-grad-alternet btn-round"
                             >
-                              Token Distribution
+                              Tokenomics
                             </a>
                           </li>
                         </ul>
